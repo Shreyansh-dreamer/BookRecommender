@@ -175,6 +175,7 @@ function Recommend() {
           <div className="text-center py-12">
             <BookOpen className="w-16 h-16 text-gray-400 mx-auto mb-4" />
             <h3 className="text-xl font-semibold text-gray-300 mb-2">
+              If you have not clicked search and still see this message, First click the button please
               No recommendations found
             </h3>
             <p className="text-gray-400">
