@@ -19,3 +19,5 @@ data/
 
 # Optional: ignore database files
 *.db
+
+venv/

@@ -50,7 +50,7 @@ function Recommend() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 px-4 sm:px-6 lg:px-8 py-10 overflow-x-hidden">
+    <div className="min-h-screen min-w-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 px-4 sm:px-6 lg:px-8 py-10 overflow-x-hidden">
       <div className=" mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
