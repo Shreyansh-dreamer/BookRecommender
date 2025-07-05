@@ -1,0 +1,21 @@
+# Ignore Anaconda project folder
+anaconda_projects/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore node_modules (frontend)
+frontend/node_modules/
+
+# Ignore __pycache__ and Python cache
+__pycache__/
+*.pyc
+
+# Ignore everything in data folder...
+data/
+
+# ...except .pkl files in it
+!data/*.pkl
+
+# Optional: ignore database files
+*.db
